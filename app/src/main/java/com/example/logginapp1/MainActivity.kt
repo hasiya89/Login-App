@@ -67,7 +67,7 @@ fun LoginForm(modifier: Modifier = Modifier) {
 
         // Submit Button
         Button(
-            onClick = { /* No action yet */ },
+            onClick = {  },
             modifier = Modifier.fillMaxWidth()
         ) {
             Text("Submit")
